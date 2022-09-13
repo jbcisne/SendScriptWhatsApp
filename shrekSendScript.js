@@ -3700,4 +3700,5 @@ black) Oh, that's funny. Oh. Oh. I can't
 breathe. I can't breathe.
 
 THE END
+......PARE DE ENCHER O SACO.......
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
